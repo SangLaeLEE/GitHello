@@ -1,0 +1,1 @@
+This text use git and first using the git bash
